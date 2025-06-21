@@ -1,0 +1,114 @@
+[
+  {
+    "cid": "cid03109",
+    "glyphName": "uni3663-CN",
+    "codepoints": {
+      "U+3663": "㙣"
+    },
+    "master": "Heavy",
+    "points": [
+      {
+        "contour": 12,
+        "point": 1,
+        "x": 360.0,
+        "y": 599.0
+      },
+      {
+        "contour": 10,
+        "point": 1,
+        "x": 318.0,
+        "y": 600.0
+      }
+    ],
+    "offset": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "glifFilename": "ety001_cid03109_H_.glif",
+    "shouldApplyFix": true
+  },
+  {
+    "cid": "cid08600",
+    "glyphName": "uni4A5F-CN",
+    "codepoints": {
+      "U+4A5F": "䩟"
+    },
+    "master": "ExtraLight",
+    "points": [
+      {
+        "contour": 12,
+        "point": 1,
+        "x": 493.0,
+        "y": 436.0
+      },
+      {
+        "contour": 13,
+        "point": 1,
+        "x": 479.0,
+        "y": 435.0
+      }
+    ],
+    "offset": {
+      "x": 0.0,
+      "y": -1.0
+    },
+    "glifFilename": "ety002_cid08600_E_L_.glif",
+    "shouldApplyFix": true
+  },
+  {
+    "cid": "cid33876",
+    "glyphName": "uni82F0-CN",
+    "codepoints": {
+      "U+82F0": "苰"
+    },
+    "master": "Heavy",
+    "points": [
+      {
+        "contour": 7,
+        "point": 1,
+        "x": 166.0,
+        "y": 425.0
+      },
+      {
+        "contour": 4,
+        "point": 1,
+        "x": 93.0,
+        "y": 424.0
+      }
+    ],
+    "offset": {
+      "x": 0.0,
+      "y": -1.0
+    },
+    "glifFilename": "ety003_cid33876_H_.glif",
+    "shouldApplyFix": true
+  },
+  {
+    "cid": "cid39010",
+    "glyphName": "uni8D39-CN",
+    "codepoints": {
+      "U+8D39": "费"
+    },
+    "master": "Heavy",
+    "points": [
+      {
+        "contour": 0,
+        "point": 1,
+        "x": 178.0,
+        "y": 685.0
+      },
+      {
+        "contour": 8,
+        "point": 1,
+        "x": 122.0,
+        "y": 684.0
+      }
+    ],
+    "offset": {
+      "x": 0.0,
+      "y": -1.0
+    },
+    "glifFilename": "ety004_cid39010_H_.glif",
+    "shouldApplyFix": true
+  }
+]

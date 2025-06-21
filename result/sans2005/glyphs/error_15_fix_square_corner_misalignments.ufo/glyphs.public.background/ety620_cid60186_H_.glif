@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<glyph name="ety620_cid60186_H" format="1">
+  <advance width="1000"/>
+  <outline>
+    <contour>
+      <point x="817" y="69" type="line"/>
+      <point x="168" y="69" type="line"/>
+      <point x="168" y="-60" type="line"/>
+      <point x="817" y="-60" type="line"/>
+    </contour>
+    <contour>
+      <point x="565" y="382" type="line"/>
+      <point x="419" y="382" type="line"/>
+      <point x="419" y="8" type="line"/>
+      <point x="565" y="8" type="line"/>
+    </contour>
+    <contour>
+      <point x="238" y="137" type="line"/>
+      <point x="94" y="137" type="line"/>
+      <point x="94" y="-61" type="line"/>
+      <point x="238" y="-61" type="line"/>
+    </contour>
+    <contour>
+      <point x="902" y="142" type="line"/>
+      <point x="756" y="142" type="line"/>
+      <point x="756" y="-87" type="line"/>
+      <point x="902" y="-87" type="line"/>
+    </contour>
+    <contour>
+      <point x="288" y="368" type="line"/>
+      <point x="150" y="368" type="line"/>
+      <point x="150" y="172" type="line"/>
+      <point x="841" y="172" type="line"/>
+      <point x="841" y="368" type="line"/>
+      <point x="696" y="368" type="line"/>
+      <point x="696" y="295" type="line"/>
+      <point x="288" y="295" type="line"/>
+    </contour>
+    <contour>
+      <point x="286" y="527" type="line"/>
+      <point x="286" y="559" type="line"/>
+      <point x="689" y="559" type="line"/>
+      <point x="689" y="527" type="line"/>
+    </contour>
+    <contour>
+      <point x="286" y="670" type="line"/>
+      <point x="286" y="701" type="line"/>
+      <point x="689" y="701" type="line"/>
+      <point x="689" y="670" type="line"/>
+    </contour>
+    <contour>
+      <point x="848" y="819" type="line"/>
+      <point x="135" y="819" type="line"/>
+      <point x="135" y="409" type="line"/>
+      <point x="848" y="409" type="line"/>
+    </contour>
+  </outline>
+</glyph>

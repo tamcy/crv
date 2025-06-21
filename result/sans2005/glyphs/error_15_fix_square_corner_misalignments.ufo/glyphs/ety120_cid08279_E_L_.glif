@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<glyph name="ety120_cid08279_EL" format="1">
+  <advance width="1000"/>
+  <outline>
+    <contour>
+      <point x="907" y="626" type="line"/>
+      <point x="447" y="626" type="line"/>
+      <point x="447" y="597" type="line"/>
+      <point x="907" y="597" type="line"/>
+    </contour>
+    <contour>
+      <point x="918" y="790" type="line"/>
+      <point x="889" y="790" type="line"/>
+      <point x="889" y="596" type="line"/>
+      <point x="918" y="596" type="line"/>
+    </contour>
+  </outline>
+</glyph>

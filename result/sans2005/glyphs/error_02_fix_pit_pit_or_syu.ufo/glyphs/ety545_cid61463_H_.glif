@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<glyph name="ety545_cid61463_H" format="1">
+  <advance width="1000"/>
+  <outline>
+    <contour>
+      <point x="926" y="394" type="curve"/>
+      <point x="863" y="488" type="line"/>
+      <point x="787" y="462"/>
+      <point x="666" y="446"/>
+      <point x="562" y="439" type="curve"/>
+      <point x="574" y="413"/>
+      <point x="587" y="373"/>
+      <point x="591" y="347" type="curve"/>
+      <point x="699" y="350"/>
+      <point x="831" y="364"/>
+    </contour>
+    <contour>
+      <point x="684" y="248" type="curve"/>
+      <point x="684" y="439" type="line"/>
+      <point x="561" y="439" type="line"/>
+      <point x="561" y="250" type="line"/>
+      <point x="561" y="166"/>
+      <point x="558" y="54"/>
+      <point x="513" y="-26" type="curve"/>
+      <point x="541" y="-39"/>
+      <point x="598" y="-75"/>
+      <point x="620" y="-95" type="curve"/>
+      <point x="675" y="-3"/>
+      <point x="684" y="143"/>
+    </contour>
+  </outline>
+</glyph>

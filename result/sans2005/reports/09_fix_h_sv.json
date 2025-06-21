@@ -1,0 +1,58 @@
+[
+  {
+    "cid": "cid28553",
+    "glyphName": "uni78A1-TW",
+    "codepoints": {
+      "U+78A1": "碡"
+    },
+    "master": "ExtraLight",
+    "points": [
+      {
+        "contour": 0,
+        "point": 1,
+        "x": 479.0,
+        "y": 450.0
+      },
+      {
+        "contour": 7,
+        "point": 1,
+        "x": 476.0,
+        "y": 451.0
+      }
+    ],
+    "offset": {
+      "x": 0.0,
+      "y": -1.0
+    },
+    "glifFilename": "ety001_cid28553_E_L_.glif",
+    "shouldApplyFix": true
+  },
+  {
+    "cid": "cid60287",
+    "glyphName": "u236BA-HK",
+    "codepoints": {
+      "U+236BA": "𣚺"
+    },
+    "master": "Heavy",
+    "points": [
+      {
+        "contour": 12,
+        "point": 1,
+        "x": 478.0,
+        "y": 343.0
+      },
+      {
+        "contour": 11,
+        "point": 1,
+        "x": 433.0,
+        "y": 344.0
+      }
+    ],
+    "offset": {
+      "x": 0.0,
+      "y": -1.0
+    },
+    "glifFilename": "ety002_cid60287_H_.glif",
+    "shouldApplyFix": true
+  }
+]

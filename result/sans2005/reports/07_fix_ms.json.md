@@ -1,0 +1,64 @@
+| CID | Glyph Name | Codepoint | Master | Point 1 | Point 2 | Offset | Tag |
+| --- | ---------- | --------- | ------ | ------- | ------- | ------ | ----- |
+| cid02472 | uni3412-CN | U+3412 㐒 | Heavy | C0P0 (777, 812) | C1P0 (890, 810) | (0, 2) |  |
+| cid02750 | uni3517-CN | U+3517 㔗 | Heavy | C2P0 (523, 333) | C3P0 (584, 332) | (0, 1) |  |
+| cid02763 | uni3524-CN | U+3524 㔤 | ExtraLight | C13P0 (894, 577) | C14P0 (911, 578) | (0, -1) |  |
+| cid03053 | uni362F-CN | U+362F 㘯 | Heavy | C2P0 (856, 466) | C3P0 (949, 465) | (0, 1) |  |
+| cid03752 | uni38A7-CN | U+38A7 㢧 | ExtraLight | C3P0 (855, 370) | C1P0 (873, 371) | (0, -1) |  |
+| cid03802 | uni38D8-CN | U+38D8 㣘 | Heavy | C1P0 (862, 698) | C2P0 (958, 697) | (0, 1) |  |
+| cid03854 | uni390B-CN | U+390B 㤋 | ExtraLight | C1P0 (849, 419) | C2P0 (864, 418) | (0, 1) |  |
+| cid03905 | uni393C-CN | U+393C 㤼 | ExtraLight | C3P0 (911, 598) | C4P0 (926, 597) | (0, 1) |  |
+| cid04166 | uni3A35-CN | U+3A35 㨵 | ExtraLight | C4P0 (882, 227) | C11P0 (900, 226) | (0, 1) |  |
+| cid04177 | uni3A40-CN | U+3A40 㩀 | Heavy | C14P0 (869, 333) | C10P0 (931, 334) | (0, -1) |  |
+| cid04217 | uni3A64-CN | U+3A64 㩤 | Heavy | C3P0 (577, 168) | C4P0 (650, 166) | (0, 2) |  |
+| cid04253 | uni3A84-CN | U+3A84 㪄 | Heavy | C2P0 (510, 333) | C3P0 (569, 332) | (0, 1) |  |
+| cid04723 | uni3C40-CN | U+3C40 㱀 | ExtraLight | C6P0 (516, 755) | C7P0 (532, 757) | (0, -2) |  |
+|      |            |             | ExtraLight | C11P0 (514, 352) | C12P0 (530, 354) | (0, -2) |  |
+| cid04797 | uni3C88-CN | U+3C88 㲈 | Heavy | C12P0 (777, 371) | C13P0 (890, 369) | (0, 2) |  |
+| cid06016 | uni40F5-CN | U+40F5 䃵 | Heavy | C9P0 (880, 415) | C3P0 (948, 416) | (0, -1) |  |
+| cid07153 | uni450D-JP | U+450D 䔍 | Heavy | C6P0 (823, 257) | C8P0 (939, 256) | (0, 1) |  |
+| cid07449 | uni4610-CN | U+4610 䘐 | ExtraLight | C0P0 (818, 743) | C1P0 (839, 742) | (0, 1) |  |
+| cid08810 | uni4B28-CN | U+4B28 䬨 | ExtraLight | C8P0 (900, 688) | C9P0 (911, 687) | (0, 1) |  |
+| cid09221 | uni4CAB-CN | U+4CAB 䲫 | Heavy | C3P0 (857, 388) | C9P0 (940, 383) | (0, 5) |  |
+| cid12065 | uni5441-JP | U+5441 呁 | ExtraLight | C2P0 (915, 663) | C3P0 (931, 664) | (0, -1) |  |
+| cid12518 | uni557A-JP | U+557A 啺 | ExtraLight | C3P0 (890, 291) | C5P0 (911, 290) | (0, 1) |  |
+| cid12749 | uni55F7-CN | U+55F7 嗷 | ExtraLight | C7P0 (589, 254) | C8P0 (610, 255) | (0, -1) |  |
+| cid12772 | uni5604-JP | U+5604 嘄 | ExtraLight | C8P0 (863, 406) | C9P0 (885, 407) | (0, -1) |  |
+| cid18287 | uni618C-CN | U+618C 憌 | Heavy | C0P0 (866, 788) | C1P0 (927, 787) | (0, 1) |  |
+| cid18288 | uni618C-TW | U+618C 憌 | Heavy | C0P0 (866, 788) | C1P0 (959, 787) | (0, 1) |  |
+| cid18607 | uni623F-CN | U+623F 房 | Heavy | C1P0 (781, 212) | C2P0 (891, 211) | (0, 1) |  |
+| cid18728 | uni6285-JP | U+6285 抅 | Heavy | C1P0 (861, 698) | C2P0 (958, 697) | (0, 1) |  |
+| cid18846 | uni62D8-CN | U+62D8 拘 | Heavy | C1P0 (848, 698) | C2P0 (942, 697) | (0, 1) |  |
+| cid19367 | uni641A-JP | U+641A 搚 | ExtraLight | C13P0 (932, 551) | C14P0 (953, 550) | (0, 1) |  |
+| cid19682 | uni64C4-JP | U+64C4 擄, U+F930 擄 | ExtraLight | C3P0 (906, 119) | C11P0 (924, 121) | (0, -2) |  |
+| cid20199 | uni65D7-CN | U+65D7 旗 | ExtraLight | C1P0 (353, 460) | C3P0 (368, 459) | (0, 1) |  |
+| cid20212 | uni65DE-CN | U+65DE 旞 | Heavy | C2P0 (281, 491) | C3P0 (347, 492) | (0, -1) |  |
+| cid20690 | uni6702-CN | U+6702 朂 | ExtraLight | C9P0 (883, 286) | C10P0 (906, 287) | (0, -1) |  |
+| cid21677 | uni695E-CN | U+695E 楞 | Heavy | C5P0 (812, 262) | C6P0 (905, 261) | (0, 1) |  |
+| cid22699 | uni6B89-CN | U+6B89 殉 | ExtraLight | C6P0 (894, 672) | C7P0 (904, 673) | (0, -1) |  |
+| cid23228 | uni6CC3-CN | U+6CC3 泃 | Heavy | C1P0 (860, 698) | C2P0 (958, 697) | (0, 1) |  |
+| cid23567 | uni6DA9-CN | U+6DA9 涩 | ExtraLight | C7P0 (879, 787) | C8P0 (900, 783) | (0, 4) |  |
+| cid24153 | uni6EF6-TW | U+6EF6 滶 | Heavy | C8P0 (522, 242) | C9P0 (604, 243) | (0, -1) |  |
+| cid27491 | uni761B-CN | U+761B 瘛 | Heavy | C9P0 (852, 607) | C10P0 (948, 608) | (0, -1) |  |
+| cid33662 | uni828E-TW | U+828E 芎 | ExtraLight | C3P0 (856, 211) | C1P0 (877, 212) | (0, -1) |  |
+| cid33816 | uni82D5-CN | U+82D5 苕 | Heavy | C4P0 (776, 597) | C6P0 (893, 598) | (0, -1) |  |
+| cid35249 | uni855D-TW | U+855D 蕝 | Heavy | C17P0 (823, 623) | C18P0 (922, 624) | (0, -1) |  |
+| cid35400 | uni859A-CN | U+859A 薚 | ExtraLight | C2P0 (908, 206) | C8P0 (927, 204) | (0, 2) |  |
+| cid38301 | uni8B65-CN | U+8B65 譥 | Heavy | C11P0 (427, 510) | C16P0 (510, 511) | (0, -1) |  |
+| cid38637 | uni8C52-CN | U+8C52 豒 | ExtraLight | C2P0 (915, 305) | C3P0 (932, 304) | (0, 1) |  |
+| cid39091 | uni8D79-CN | U+8D79 赹 | Heavy | C7P0 (889, 773) | C8P0 (941, 772) | (0, 1) |  |
+| cid39143 | uni8D9C-CN | U+8D9C 趜 | Heavy | C7P0 (835, 760) | C8P0 (939, 758) | (0, 2) |  |
+| cid42755 | uni9532-CN | U+9532 锲 | Heavy | C11P0 (889, 818) | C12P0 (953, 820) | (0, -2) |  |
+| cid44652 | uni996C-CN | U+996C 饬 | Heavy | C2P0 (860, 440) | C3P0 (947, 439) | (0, 1) |  |
+| cid45073 | uni9A71-CN | U+9A71 驱 | Heavy | C5P0 (314, 392) | C0P0 (414, 393) | (0, -1) |  |
+| cid45075 | uni9A73-CN | U+9A73 驳 | Heavy | C5P0 (321, 382) | C0P0 (437, 383) | (0, -1) |  |
+| cid45096 | uni9A88-CN | U+9A88 骈 | Heavy | C5P0 (306, 392) | C0P0 (416, 391) | (0, 1) |  |
+| cid45100 | uni9A8C-CN | U+9A8C 验 | Heavy | C5P0 (319, 392) | C0P0 (430, 393) | (0, -1) |  |
+| cid45364 | uni9B08-CN | U+9B08 鬈 | Heavy | C4P0 (619, 173) | C8P0 (727, 172) | (0, 1) |  |
+| cid45691 | uni9BB7-CN | U+9BB7 鮷 | ExtraLight | C2P0 (910, 305) | C3P0 (930, 304) | (0, 1) |  |
+| cid46133 | uni9CD3-CN | U+9CD3 鳓 | Heavy | C0P0 (921, 664) | C1P0 (966, 665) | (0, -1) |  |
+| cid46621 | uni9DFB-CN | U+9DFB 鷻 | Heavy | C14P0 (344, 287) | C16P0 (387, 288) | (0, -1) |  |
+| cid46730 | uni9E48-CN | U+9E48 鹈 | ExtraLight | C8P0 (453, 305) | C9P0 (476, 304) | (0, 1) |  |
+| cid47554 | uni9FDD-CN | U+9FDD 鿝 | Heavy | C5P0 (464, 262) | C6P0 (502, 261) | (0, 1) |  |
+| cid61198 | u27F2E-HK | U+27F2E 𧼮 | Heavy | C10P0 (890, 366) | C11P0 (970, 365) | (0, 1) |  |
+| cid62496 | uni6F54uE0101-JP |  | ExtraLight | C7P0 (907, 771) | C9P0 (924, 772) | (0, -1) |  |

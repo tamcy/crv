@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<glyph name="ety019_cid04865_H" format="1">
+  <advance width="1000"/>
+  <outline>
+    <contour>
+      <point x="832" y="454" type="line"/>
+      <point x="690" y="454" type="line"/>
+      <point x="690" y="13" type="line"/>
+      <point x="832" y="13" type="line"/>
+    </contour>
+    <contour>
+      <point x="960" y="500" type="line"/>
+      <point x="496" y="500" type="line"/>
+      <point x="496" y="369" type="line"/>
+      <point x="960" y="369" type="line"/>
+    </contour>
+    <contour>
+      <point x="973" y="72" type="line"/>
+      <point x="321" y="72" type="line"/>
+      <point x="321" y="-61" type="line"/>
+      <point x="973" y="-61" type="line"/>
+    </contour>
+    <contour>
+      <point x="571" y="722" type="line"/>
+      <point x="425" y="767" type="line"/>
+      <point x="425" y="3" type="line"/>
+      <point x="571" y="3" type="line"/>
+    </contour>
+    <contour>
+      <point x="937" y="733" type="curve"/>
+      <point x="820" y="843" type="line"/>
+      <point x="721" y="813"/>
+      <point x="565" y="785"/>
+      <point x="425" y="768" type="curve"/>
+      <point x="440" y="739"/>
+      <point x="460" y="687"/>
+      <point x="465" y="655" type="curve"/>
+      <point x="616" y="669"/>
+      <point x="794" y="695"/>
+    </contour>
+    <contour>
+      <point x="162" y="844" type="curve"/>
+      <point x="88" y="737" type="line"/>
+      <point x="148" y="709"/>
+      <point x="225" y="661"/>
+      <point x="260" y="625" type="curve"/>
+      <point x="339" y="743" type="line"/>
+      <point x="300" y="779"/>
+      <point x="220" y="821"/>
+    </contour>
+    <contour>
+      <point x="101" y="569" type="curve"/>
+      <point x="31" y="459" type="line"/>
+      <point x="92" y="432"/>
+      <point x="171" y="386"/>
+      <point x="207" y="351" type="curve"/>
+      <point x="282" y="472" type="line"/>
+      <point x="242" y="506"/>
+      <point x="160" y="547"/>
+    </contour>
+    <contour>
+      <point x="64" y="14" type="curve"/>
+      <point x="179" y="-84" type="line"/>
+      <point x="236" y="16"/>
+      <point x="291" y="124"/>
+      <point x="341" y="229" type="curve"/>
+      <point x="241" y="326" type="line"/>
+      <point x="184" y="209"/>
+      <point x="113" y="88"/>
+    </contour>
+  </outline>
+</glyph>

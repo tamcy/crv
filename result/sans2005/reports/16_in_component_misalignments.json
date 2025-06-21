@@ -1,0 +1,114 @@
+[
+  {
+    "cid": "cid14862",
+    "glyphName": "uni5A7E-JP",
+    "codepoints": {
+      "U+5A7E": "婾"
+    },
+    "master": "ExtraLight",
+    "points": [
+      {
+        "contour": 0,
+        "point": 0,
+        "x": 657.0,
+        "y": 798.0
+      },
+      {
+        "contour": 1,
+        "point": 0,
+        "x": 638.0,
+        "y": 798.0
+      }
+    ],
+    "offset": {
+      "x": 14.0,
+      "y": 0.0
+    },
+    "glifFilename": "ety001_cid14862_E_L_.glif",
+    "shouldApplyFix": true
+  },
+  {
+    "cid": "cid33429",
+    "glyphName": "uni8229-JP",
+    "codepoints": {
+      "U+8229": "舩"
+    },
+    "master": "ExtraLight",
+    "points": [
+      {
+        "contour": 2,
+        "point": 0,
+        "x": 819.0,
+        "y": 781.0
+      },
+      {
+        "contour": 1,
+        "point": 0,
+        "x": 796.0,
+        "y": 781.0
+      }
+    ],
+    "offset": {
+      "x": 18.0,
+      "y": 0.0
+    },
+    "glifFilename": "ety002_cid33429_E_L_.glif",
+    "shouldApplyFix": true
+  },
+  {
+    "cid": "cid60176",
+    "glyphName": "u23066-HK",
+    "codepoints": {
+      "U+23066": "𣁦"
+    },
+    "master": "ExtraLight",
+    "points": [
+      {
+        "contour": 17,
+        "point": 0,
+        "x": 526.0,
+        "y": 425.0
+      },
+      {
+        "contour": 16,
+        "point": 0,
+        "x": 508.0,
+        "y": 425.0
+      }
+    ],
+    "offset": {
+      "x": 13.0,
+      "y": 0.0
+    },
+    "glifFilename": "ety003_cid60176_E_L_.glif",
+    "shouldApplyFix": true
+  },
+  {
+    "cid": "cid60267",
+    "glyphName": "u235CE-HK",
+    "codepoints": {
+      "U+235CE": "𣗎"
+    },
+    "master": "ExtraLight",
+    "points": [
+      {
+        "contour": 14,
+        "point": 0,
+        "x": 662.0,
+        "y": 585.0
+      },
+      {
+        "contour": 13,
+        "point": 0,
+        "x": 643.0,
+        "y": 585.0
+      }
+    ],
+    "offset": {
+      "x": 14.0,
+      "y": 0.0
+    },
+    "glifFilename": "ety004_cid60267_E_L_.glif",
+    "shouldApplyFix": true
+  }
+]

@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<glyph name="ety058_cid46621_H" format="1">
+  <advance width="1000"/>
+  <outline>
+    <contour>
+      <point x="344" y="287" type="line"/>
+      <point x="60" y="287" type="line"/>
+      <point x="60" y="185" type="line"/>
+      <point x="344" y="185" type="line"/>
+    </contour>
+    <contour>
+      <point x="387" y="288" type="curve"/>
+      <point x="289" y="288" type="line"/>
+      <point x="289" y="272" type="line"/>
+      <point x="285" y="83"/>
+      <point x="281" y="17"/>
+      <point x="271" y="2" type="curve"/>
+      <point x="265" y="-8"/>
+      <point x="258" y="-9"/>
+      <point x="248" y="-9" type="curve"/>
+      <point x="236" y="-9"/>
+      <point x="218" y="-9"/>
+      <point x="194" y="-7" type="curve"/>
+      <point x="207" y="-30"/>
+      <point x="216" y="-66"/>
+      <point x="218" y="-92" type="curve"/>
+      <point x="249" y="-93"/>
+      <point x="280" y="-93"/>
+      <point x="299" y="-89" type="curve"/>
+      <point x="322" y="-86"/>
+      <point x="340" y="-78"/>
+      <point x="356" y="-57" type="curve"/>
+      <point x="376" y="-30"/>
+      <point x="381" y="47"/>
+      <point x="386" y="251" type="curve"/>
+      <point x="387" y="263"/>
+      <point x="387" y="288"/>
+    </contour>
+  </outline>
+</glyph>

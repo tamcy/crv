@@ -1,0 +1,646 @@
+[
+  {
+    "cid": "cid04508",
+    "glyphName": "uni3B79-CN",
+    "codepoints": {
+      "U+3B79": "㭹"
+    },
+    "master": "ExtraLight",
+    "points": [
+      {
+        "contour": 7,
+        "point": 5,
+        "x": 547.0,
+        "y": 523.0
+      },
+      {
+        "contour": 6,
+        "point": 3,
+        "x": 533.0,
+        "y": 524.0
+      }
+    ],
+    "offset": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "glifFilename": "ety001_cid04508_E_L_.glif",
+    "shouldApplyFix": true
+  },
+  {
+    "cid": "cid06414",
+    "glyphName": "uni426C-CN",
+    "codepoints": {
+      "U+426C": "䉬"
+    },
+    "master": "Heavy",
+    "points": [
+      {
+        "contour": 7,
+        "point": 5,
+        "x": 522.0,
+        "y": 147.0
+      },
+      {
+        "contour": 16,
+        "point": 3,
+        "x": 447.0,
+        "y": 148.0
+      }
+    ],
+    "offset": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "glifFilename": "ety002_cid06414_H_.glif",
+    "shouldApplyFix": true
+  },
+  {
+    "cid": "cid06420",
+    "glyphName": "uni4272-CN",
+    "codepoints": {
+      "U+4272": "䉲"
+    },
+    "master": "Heavy",
+    "points": [
+      {
+        "contour": 6,
+        "point": 5,
+        "x": 327.0,
+        "y": 332.0
+      },
+      {
+        "contour": 9,
+        "point": 3,
+        "x": 306.0,
+        "y": 331.0
+      }
+    ],
+    "offset": {
+      "x": 0.0,
+      "y": -1.0
+    },
+    "glifFilename": "ety003_cid06420_H_.glif",
+    "shouldApplyFix": true
+  },
+  {
+    "cid": "cid06614",
+    "glyphName": "uni432A-CN",
+    "codepoints": {
+      "U+432A": "䌪"
+    },
+    "master": "ExtraLight",
+    "points": [
+      {
+        "contour": 13,
+        "point": 5,
+        "x": 786.0,
+        "y": 15.0
+      },
+      {
+        "contour": 9,
+        "point": 3,
+        "x": 767.0,
+        "y": 14.0
+      }
+    ],
+    "offset": {
+      "x": 0.0,
+      "y": -1.0
+    },
+    "glifFilename": "ety004_cid06614_E_L_.glif",
+    "shouldApplyFix": true
+  },
+  {
+    "cid": "cid07133",
+    "glyphName": "uni44FD-CN",
+    "codepoints": {
+      "U+44FD": "䓽"
+    },
+    "master": "Heavy",
+    "points": [
+      {
+        "contour": 2,
+        "point": 5,
+        "x": 918.0,
+        "y": 240.0
+      },
+      {
+        "contour": 0,
+        "point": 3,
+        "x": 846.0,
+        "y": 239.0
+      }
+    ],
+    "offset": {
+      "x": 0.0,
+      "y": -1.0
+    },
+    "glifFilename": "ety005_cid07133_H_.glif",
+    "shouldApplyFix": true
+  },
+  {
+    "cid": "cid07254",
+    "glyphName": "uni4560-CN",
+    "codepoints": {
+      "U+4560": "䕠"
+    },
+    "master": "Heavy",
+    "points": [
+      {
+        "contour": 10,
+        "point": 5,
+        "x": 522.0,
+        "y": 151.0
+      },
+      {
+        "contour": 19,
+        "point": 3,
+        "x": 447.0,
+        "y": 152.0
+      }
+    ],
+    "offset": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "glifFilename": "ety006_cid07254_H_.glif",
+    "shouldApplyFix": true
+  },
+  {
+    "cid": "cid07269",
+    "glyphName": "uni456C-CN",
+    "codepoints": {
+      "U+456C": "䕬"
+    },
+    "master": "ExtraLight",
+    "points": [
+      {
+        "contour": 3,
+        "point": 5,
+        "x": 334.0,
+        "y": 393.0
+      },
+      {
+        "contour": 6,
+        "point": 3,
+        "x": 317.0,
+        "y": 392.0
+      }
+    ],
+    "offset": {
+      "x": 0.0,
+      "y": -1.0
+    },
+    "glifFilename": "ety007_cid07269_E_L_.glif",
+    "shouldApplyFix": true
+  },
+  {
+    "cid": "cid13964",
+    "glyphName": "uni58DB-CN",
+    "codepoints": {
+      "U+58DB": "壛"
+    },
+    "master": "ExtraLight",
+    "points": [
+      {
+        "contour": 16,
+        "point": 5,
+        "x": 785.0,
+        "y": 15.0
+      },
+      {
+        "contour": 12,
+        "point": 3,
+        "x": 770.0,
+        "y": 14.0
+      }
+    ],
+    "offset": {
+      "x": 0.0,
+      "y": -1.0
+    },
+    "glifFilename": "ety008_cid13964_E_L_.glif",
+    "shouldApplyFix": true
+  },
+  {
+    "cid": "cid16259",
+    "glyphName": "uni5D22-CN",
+    "codepoints": {
+      "U+5D22": "崢"
+    },
+    "master": "ExtraLight",
+    "points": [
+      {
+        "contour": 2,
+        "point": 5,
+        "x": 876.0,
+        "y": 173.0
+      },
+      {
+        "contour": 0,
+        "point": 3,
+        "x": 862.0,
+        "y": 172.0
+      }
+    ],
+    "offset": {
+      "x": 0.0,
+      "y": -1.0
+    },
+    "glifFilename": "ety009_cid16259_E_L_.glif",
+    "shouldApplyFix": true
+  },
+  {
+    "cid": "cid16436",
+    "glyphName": "uni5D79-CN",
+    "codepoints": {
+      "U+5D79": "嵹"
+    },
+    "master": "Heavy",
+    "points": [
+      {
+        "contour": 9,
+        "point": 5,
+        "x": 378.0,
+        "y": 333.0
+      },
+      {
+        "contour": 12,
+        "point": 3,
+        "x": 314.0,
+        "y": 332.0
+      }
+    ],
+    "offset": {
+      "x": 0.0,
+      "y": -1.0
+    },
+    "glifFilename": "ety010_cid16436_H_.glif",
+    "shouldApplyFix": true
+  },
+  {
+    "cid": "cid16437",
+    "glyphName": "uni5D79-TW",
+    "codepoints": {
+      "U+5D79": "嵹"
+    },
+    "master": "Heavy",
+    "points": [
+      {
+        "contour": 7,
+        "point": 5,
+        "x": 378.0,
+        "y": 333.0
+      },
+      {
+        "contour": 10,
+        "point": 3,
+        "x": 314.0,
+        "y": 332.0
+      }
+    ],
+    "offset": {
+      "x": 0.0,
+      "y": -1.0
+    },
+    "glifFilename": "ety011_cid16437_H_.glif",
+    "shouldApplyFix": true
+  },
+  {
+    "cid": "cid22397",
+    "glyphName": "uni6AE9-CN",
+    "codepoints": {
+      "U+6AE9": "櫩"
+    },
+    "master": "ExtraLight",
+    "points": [
+      {
+        "contour": 17,
+        "point": 5,
+        "x": 785.0,
+        "y": 15.0
+      },
+      {
+        "contour": 13,
+        "point": 3,
+        "x": 770.0,
+        "y": 14.0
+      }
+    ],
+    "offset": {
+      "x": 0.0,
+      "y": -1.0
+    },
+    "glifFilename": "ety012_cid22397_E_L_.glif",
+    "shouldApplyFix": true
+  },
+  {
+    "cid": "cid22817",
+    "glyphName": "uni6BC1-JP",
+    "codepoints": {
+      "U+6BC1": "毁"
+    },
+    "master": "ExtraLight",
+    "points": [
+      {
+        "contour": 14,
+        "point": 5,
+        "x": 446.0,
+        "y": 390.0
+      },
+      {
+        "contour": 10,
+        "point": 3,
+        "x": 428.0,
+        "y": 389.0
+      }
+    ],
+    "offset": {
+      "x": 0.0,
+      "y": -1.0
+    },
+    "glifFilename": "ety013_cid22817_E_L_.glif",
+    "shouldApplyFix": true
+  },
+  {
+    "cid": "cid22817",
+    "glyphName": "uni6BC1-JP",
+    "codepoints": {
+      "U+6BC1": "毁"
+    },
+    "master": "Heavy",
+    "points": [
+      {
+        "contour": 14,
+        "point": 5,
+        "x": 488.0,
+        "y": 349.0
+      },
+      {
+        "contour": 10,
+        "point": 3,
+        "x": 425.0,
+        "y": 350.0
+      }
+    ],
+    "offset": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "glifFilename": "ety014_cid22817_H_.glif",
+    "shouldApplyFix": true
+  },
+  {
+    "cid": "cid25693",
+    "glyphName": "uni7213-CN",
+    "codepoints": {
+      "U+7213": "爓"
+    },
+    "master": "ExtraLight",
+    "points": [
+      {
+        "contour": 17,
+        "point": 5,
+        "x": 780.0,
+        "y": 15.0
+      },
+      {
+        "contour": 13,
+        "point": 3,
+        "x": 766.0,
+        "y": 14.0
+      }
+    ],
+    "offset": {
+      "x": 0.0,
+      "y": -1.0
+    },
+    "glifFilename": "ety015_cid25693_E_L_.glif",
+    "shouldApplyFix": true
+  },
+  {
+    "cid": "cid35030",
+    "glyphName": "uni8503-CN",
+    "codepoints": {
+      "U+8503": "蔃"
+    },
+    "master": "Heavy",
+    "points": [
+      {
+        "contour": 7,
+        "point": 5,
+        "x": 378.0,
+        "y": 341.0
+      },
+      {
+        "contour": 10,
+        "point": 3,
+        "x": 314.0,
+        "y": 340.0
+      }
+    ],
+    "offset": {
+      "x": 0.0,
+      "y": -1.0
+    },
+    "glifFilename": "ety016_cid35030_H_.glif",
+    "shouldApplyFix": true
+  },
+  {
+    "cid": "cid35031",
+    "glyphName": "uni8503-HK",
+    "codepoints": {
+      "U+8503": "蔃"
+    },
+    "master": "Heavy",
+    "points": [
+      {
+        "contour": 4,
+        "point": 5,
+        "x": 378.0,
+        "y": 341.0
+      },
+      {
+        "contour": 7,
+        "point": 3,
+        "x": 314.0,
+        "y": 340.0
+      }
+    ],
+    "offset": {
+      "x": 0.0,
+      "y": -1.0
+    },
+    "glifFilename": "ety017_cid35031_H_.glif",
+    "shouldApplyFix": true
+  },
+  {
+    "cid": "cid35254",
+    "glyphName": "uni855F-CN",
+    "codepoints": {
+      "U+855F": "蕟"
+    },
+    "master": "Heavy",
+    "points": [
+      {
+        "contour": 19,
+        "point": 5,
+        "x": 416.0,
+        "y": 204.0
+      },
+      {
+        "contour": 18,
+        "point": 3,
+        "x": 342.0,
+        "y": 203.0
+      }
+    ],
+    "offset": {
+      "x": 0.0,
+      "y": -1.0
+    },
+    "glifFilename": "ety018_cid35254_H_.glif",
+    "shouldApplyFix": true
+  },
+  {
+    "cid": "cid35255",
+    "glyphName": "uni855F-HK",
+    "codepoints": {
+      "U+855F": "蕟"
+    },
+    "master": "Heavy",
+    "points": [
+      {
+        "contour": 16,
+        "point": 5,
+        "x": 423.0,
+        "y": 204.0
+      },
+      {
+        "contour": 15,
+        "point": 3,
+        "x": 342.0,
+        "y": 203.0
+      }
+    ],
+    "offset": {
+      "x": 0.0,
+      "y": -1.0
+    },
+    "glifFilename": "ety019_cid35255_H_.glif",
+    "shouldApplyFix": true
+  },
+  {
+    "cid": "cid35826",
+    "glyphName": "uni8647-CN",
+    "codepoints": {
+      "U+8647": "虇"
+    },
+    "master": "Heavy",
+    "points": [
+      {
+        "contour": 3,
+        "point": 5,
+        "x": 356.0,
+        "y": 332.0
+      },
+      {
+        "contour": 6,
+        "point": 3,
+        "x": 302.0,
+        "y": 333.0
+      }
+    ],
+    "offset": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "glifFilename": "ety020_cid35826_H_.glif",
+    "shouldApplyFix": true
+  },
+  {
+    "cid": "cid38378",
+    "glyphName": "uni8B87-CN",
+    "codepoints": {
+      "U+8B87": "讇"
+    },
+    "master": "ExtraLight",
+    "points": [
+      {
+        "contour": 13,
+        "point": 5,
+        "x": 786.0,
+        "y": 15.0
+      },
+      {
+        "contour": 9,
+        "point": 3,
+        "x": 767.0,
+        "y": 14.0
+      }
+    ],
+    "offset": {
+      "x": 0.0,
+      "y": -1.0
+    },
+    "glifFilename": "ety021_cid38378_E_L_.glif",
+    "shouldApplyFix": true
+  },
+  {
+    "cid": "cid41631",
+    "glyphName": "uni92AB-CN",
+    "codepoints": {
+      "U+92AB": "銫"
+    },
+    "master": "ExtraLight",
+    "points": [
+      {
+        "contour": 6,
+        "point": 5,
+        "x": 903.0,
+        "y": 269.0
+      },
+      {
+        "contour": 4,
+        "point": 3,
+        "x": 885.0,
+        "y": 268.0
+      }
+    ],
+    "offset": {
+      "x": 0.0,
+      "y": -1.0
+    },
+    "glifFilename": "ety022_cid41631_E_L_.glif",
+    "shouldApplyFix": true
+  },
+  {
+    "cid": "cid45951",
+    "glyphName": "uni9C48-TW",
+    "codepoints": {
+      "U+9C48": "鱈"
+    },
+    "master": "ExtraLight",
+    "points": [
+      {
+        "contour": 5,
+        "point": 5,
+        "x": 877.0,
+        "y": -32.0
+      },
+      {
+        "contour": 1,
+        "point": 3,
+        "x": 858.0,
+        "y": -33.0
+      }
+    ],
+    "offset": {
+      "x": 0.0,
+      "y": -1.0
+    },
+    "glifFilename": "ety023_cid45951_E_L_.glif",
+    "shouldApplyFix": true
+  }
+]

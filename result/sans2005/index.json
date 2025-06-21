@@ -1,0 +1,70 @@
+[
+  {
+    "file": "02_fix_pit_pit_or_syu.json",
+    "highlightIndex": 0
+  },
+  {
+    "file": "03_fix_pit_syu_variant.json",
+    "highlightIndex": 0
+  },
+  {
+    "file": "04_fix_pit_syu_ngau.json",
+    "highlightIndex": 0
+  },
+  {
+    "file": "05_fix_pit_dim.json",
+    "highlightIndex": 0
+  },
+  {
+    "file": "06_fix_sv_h.json",
+    "highlightIndex": 1
+  },
+  {
+    "file": "07_fix_ms.json",
+    "highlightIndex": 0
+  },
+  {
+    "file": "08_fix_kok_vert.json",
+    "highlightIndex": 0
+  },
+  {
+    "file": "09_fix_h_sv.json",
+    "highlightIndex": 0
+  },
+  {
+    "file": "10_fix_h_sv.json",
+    "highlightIndex": 1
+  },
+  {
+    "file": "11_fix_topleft_kok_vert.json",
+    "highlightIndex": 0
+  },
+  {
+    "file": "12_fix_horz_slant.json",
+    "highlightIndex": 0
+  },
+  {
+    "file": "13_fix_jyut.json",
+    "highlightIndex": 0
+  },
+  {
+    "file": "14_fix_pit_syu_variant_3.json",
+    "highlightIndex": 0
+  },
+  {
+    "file": "15_fix_square_corner_misalignments.json",
+    "highlightIndex": 0
+  },
+  {
+    "file": "16_in_component_misalignments.json",
+    "highlightIndex": 1
+  },
+  {
+    "file": "17_pit_syu.json",
+    "highlightIndex": 0
+  },
+  {
+    "file": "18_pit_syu_in_l_or_u.json",
+    "highlightIndex": 0
+  }
+]

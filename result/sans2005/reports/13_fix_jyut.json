@@ -1,0 +1,254 @@
+[
+  {
+    "cid": "cid02462",
+    "glyphName": "uni3408-CN",
+    "codepoints": {
+      "U+3408": "㐈"
+    },
+    "master": "ExtraLight",
+    "points": [
+      {
+        "contour": 2,
+        "point": 0,
+        "x": 714.0,
+        "y": 434.0
+      },
+      {
+        "contour": 3,
+        "point": 0,
+        "x": 717.0,
+        "y": 435.0
+      }
+    ],
+    "offset": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "glifFilename": "ety001_cid02462_E_L_.glif",
+    "shouldApplyFix": true
+  },
+  {
+    "cid": "cid02474",
+    "glyphName": "uni3414-CN",
+    "codepoints": {
+      "U+3414": "㐔"
+    },
+    "master": "ExtraLight",
+    "points": [
+      {
+        "contour": 5,
+        "point": 0,
+        "x": 703.0,
+        "y": 313.0
+      },
+      {
+        "contour": 4,
+        "point": 0,
+        "x": 701.0,
+        "y": 314.0
+      }
+    ],
+    "offset": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "glifFilename": "ety002_cid02474_E_L_.glif",
+    "shouldApplyFix": true
+  },
+  {
+    "cid": "cid07007",
+    "glyphName": "uni4497-CN",
+    "codepoints": {
+      "U+4497": "䒗"
+    },
+    "master": "ExtraLight",
+    "points": [
+      {
+        "contour": 5,
+        "point": 0,
+        "x": 736.0,
+        "y": 370.0
+      },
+      {
+        "contour": 6,
+        "point": 0,
+        "x": 744.0,
+        "y": 370.0
+      }
+    ],
+    "offset": {
+      "x": 4.0,
+      "y": 0.0
+    },
+    "glifFilename": "ety003_cid07007_E_L_.glif",
+    "shouldApplyFix": true
+  },
+  {
+    "cid": "cid09640",
+    "glyphName": "uni4E64-CN",
+    "codepoints": {
+      "U+4E64": "乤"
+    },
+    "master": "ExtraLight",
+    "points": [
+      {
+        "contour": 4,
+        "point": 0,
+        "x": 729.0,
+        "y": 378.0
+      },
+      {
+        "contour": 3,
+        "point": 0,
+        "x": 718.0,
+        "y": 378.0
+      }
+    ],
+    "offset": {
+      "x": -15.0,
+      "y": 0.0
+    },
+    "glifFilename": "ety004_cid09640_E_L_.glif",
+    "shouldApplyFix": true
+  },
+  {
+    "cid": "cid09656",
+    "glyphName": "uni4E72-CN",
+    "codepoints": {
+      "U+4E72": "乲"
+    },
+    "master": "ExtraLight",
+    "points": [
+      {
+        "contour": 6,
+        "point": 0,
+        "x": 680.0,
+        "y": 338.0
+      },
+      {
+        "contour": 7,
+        "point": 0,
+        "x": 688.0,
+        "y": 339.0
+      }
+    ],
+    "offset": {
+      "x": 4.0,
+      "y": 1.0
+    },
+    "glifFilename": "ety005_cid09656_E_L_.glif",
+    "shouldApplyFix": true
+  },
+  {
+    "cid": "cid12098",
+    "glyphName": "uni545D-JP",
+    "codepoints": {
+      "U+545D": "呝"
+    },
+    "master": "ExtraLight",
+    "points": [
+      {
+        "contour": 3,
+        "point": 0,
+        "x": 832.0,
+        "y": 368.0
+      },
+      {
+        "contour": 4,
+        "point": 0,
+        "x": 832.0,
+        "y": 367.0
+      }
+    ],
+    "offset": {
+      "x": -4.0,
+      "y": -1.0
+    },
+    "glifFilename": "ety006_cid12098_E_L_.glif",
+    "shouldApplyFix": true
+  },
+  {
+    "cid": "cid20771",
+    "glyphName": "uni6730-CN",
+    "codepoints": {
+      "U+6730": "朰"
+    },
+    "master": "ExtraLight",
+    "points": [
+      {
+        "contour": 0,
+        "point": 0,
+        "x": 694.0,
+        "y": 376.0
+      },
+      {
+        "contour": 1,
+        "point": 0,
+        "x": 701.0,
+        "y": 377.0
+      }
+    ],
+    "offset": {
+      "x": 3.0,
+      "y": 1.0
+    },
+    "glifFilename": "ety007_cid20771_E_L_.glif",
+    "shouldApplyFix": true
+  },
+  {
+    "cid": "cid33627",
+    "glyphName": "uni827A-CN",
+    "codepoints": {
+      "U+827A": "艺"
+    },
+    "master": "ExtraLight",
+    "points": [
+      {
+        "contour": 0,
+        "point": 0,
+        "x": 718.0,
+        "y": 488.0
+      },
+      {
+        "contour": 1,
+        "point": 0,
+        "x": 717.0,
+        "y": 487.0
+      }
+    ],
+    "offset": {
+      "x": -5.0,
+      "y": -1.0
+    },
+    "glifFilename": "ety008_cid33627_E_L_.glif",
+    "shouldApplyFix": true
+  },
+  {
+    "cid": "cid59507",
+    "glyphName": "u200D7-KR",
+    "codepoints": {
+      "U+200D7": "𠃗"
+    },
+    "master": "Heavy",
+    "points": [
+      {
+        "contour": 0,
+        "point": 0,
+        "x": 757.0,
+        "y": 350.0
+      },
+      {
+        "contour": 1,
+        "point": 0,
+        "x": 734.0,
+        "y": 351.0
+      }
+    ],
+    "offset": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "glifFilename": "ety009_cid59507_H_.glif",
+    "shouldApplyFix": true
+  }
+]

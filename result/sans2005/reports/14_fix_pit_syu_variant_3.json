@@ -1,0 +1,226 @@
+[
+  {
+    "cid": "cid14433",
+    "glyphName": "uni59CA-CN",
+    "codepoints": {
+      "U+59CA": "姊"
+    },
+    "master": "Heavy",
+    "points": [
+      {
+        "contour": 1,
+        "point": 2,
+        "x": 443.0,
+        "y": 720.0
+      },
+      {
+        "contour": 2,
+        "point": 2,
+        "x": 442.0,
+        "y": 718.0
+      }
+    ],
+    "offset": {
+      "x": -1.0,
+      "y": -2.0
+    },
+    "glifFilename": "ety001_cid14433_H_.glif",
+    "shouldApplyFix": true
+  },
+  {
+    "cid": "cid14434",
+    "glyphName": "uni59CA-TW",
+    "codepoints": {
+      "U+59CA": "姊"
+    },
+    "master": "Heavy",
+    "points": [
+      {
+        "contour": 1,
+        "point": 2,
+        "x": 442.0,
+        "y": 720.0
+      },
+      {
+        "contour": 2,
+        "point": 2,
+        "x": 442.0,
+        "y": 718.0
+      }
+    ],
+    "offset": {
+      "x": 0.0,
+      "y": -2.0
+    },
+    "glifFilename": "ety002_cid14434_H_.glif",
+    "shouldApplyFix": true
+  },
+  {
+    "cid": "cid23308",
+    "glyphName": "uni6CF2-CN",
+    "codepoints": {
+      "U+6CF2": "泲"
+    },
+    "master": "ExtraLight",
+    "points": [
+      {
+        "contour": 2,
+        "point": 2,
+        "x": 380.0,
+        "y": 669.0
+      },
+      {
+        "contour": 3,
+        "point": 2,
+        "x": 379.0,
+        "y": 669.0
+      }
+    ],
+    "offset": {
+      "x": -1.0,
+      "y": 0.0
+    },
+    "glifFilename": "ety003_cid23308_E_L_.glif",
+    "shouldApplyFix": true
+  },
+  {
+    "cid": "cid23308",
+    "glyphName": "uni6CF2-CN",
+    "codepoints": {
+      "U+6CF2": "泲"
+    },
+    "master": "Heavy",
+    "points": [
+      {
+        "contour": 2,
+        "point": 2,
+        "x": 361.0,
+        "y": 697.0
+      },
+      {
+        "contour": 3,
+        "point": 2,
+        "x": 359.0,
+        "y": 697.0
+      }
+    ],
+    "offset": {
+      "x": -2.0,
+      "y": 0.0
+    },
+    "glifFilename": "ety004_cid23308_H_.glif",
+    "shouldApplyFix": true
+  },
+  {
+    "cid": "cid25862",
+    "glyphName": "uni726C-CN",
+    "codepoints": {
+      "U+726C": "牬"
+    },
+    "master": "ExtraLight",
+    "points": [
+      {
+        "contour": 1,
+        "point": 2,
+        "x": 470.0,
+        "y": 626.0
+      },
+      {
+        "contour": 2,
+        "point": 2,
+        "x": 469.0,
+        "y": 626.0
+      }
+    ],
+    "offset": {
+      "x": -1.0,
+      "y": 0.0
+    },
+    "glifFilename": "ety005_cid25862_E_L_.glif",
+    "shouldApplyFix": true
+  },
+  {
+    "cid": "cid29157",
+    "glyphName": "uni79ED-CN",
+    "codepoints": {
+      "U+79ED": "秭"
+    },
+    "master": "Heavy",
+    "points": [
+      {
+        "contour": 6,
+        "point": 2,
+        "x": 442.0,
+        "y": 720.0
+      },
+      {
+        "contour": 7,
+        "point": 2,
+        "x": 442.0,
+        "y": 718.0
+      }
+    ],
+    "offset": {
+      "x": 0.0,
+      "y": -2.0
+    },
+    "glifFilename": "ety006_cid29157_H_.glif",
+    "shouldApplyFix": true
+  },
+  {
+    "cid": "cid32685",
+    "glyphName": "uni80CF-CN",
+    "codepoints": {
+      "U+80CF": "胏"
+    },
+    "master": "Heavy",
+    "points": [
+      {
+        "contour": 1,
+        "point": 2,
+        "x": 447.0,
+        "y": 719.0
+      },
+      {
+        "contour": 2,
+        "point": 2,
+        "x": 447.0,
+        "y": 718.0
+      }
+    ],
+    "offset": {
+      "x": 0.0,
+      "y": -1.0
+    },
+    "glifFilename": "ety007_cid32685_H_.glif",
+    "shouldApplyFix": true
+  },
+  {
+    "cid": "cid32686",
+    "glyphName": "uni80CF-TW",
+    "codepoints": {
+      "U+80CF": "胏"
+    },
+    "master": "Heavy",
+    "points": [
+      {
+        "contour": 1,
+        "point": 2,
+        "x": 447.0,
+        "y": 719.0
+      },
+      {
+        "contour": 2,
+        "point": 2,
+        "x": 447.0,
+        "y": 718.0
+      }
+    ],
+    "offset": {
+      "x": 0.0,
+      "y": -1.0
+    },
+    "glifFilename": "ety008_cid32686_H_.glif",
+    "shouldApplyFix": true
+  }
+]
