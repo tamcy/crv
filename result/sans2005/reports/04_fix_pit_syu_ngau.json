@@ -3388,62 +3388,6 @@
     "shouldApplyFix": true
   },
   {
-    "cid": "cid21460",
-    "glyphName": "uni68E6-CN",
-    "codepoints": {
-      "U+68E6": "棦"
-    },
-    "master": "ExtraLight",
-    "points": [
-      {
-        "contour": 10,
-        "point": 3,
-        "x": 653.0,
-        "y": 565.0
-      },
-      {
-        "contour": 8,
-        "point": 2,
-        "x": 639.0,
-        "y": 560.0
-      }
-    ],
-    "offset": {
-      "x": 14.0,
-      "y": 5.0
-    },
-    "glifFilename": "ety122_cid21460_E_L_.glif",
-    "shouldApplyFix": true
-  },
-  {
-    "cid": "cid21460",
-    "glyphName": "uni68E6-CN",
-    "codepoints": {
-      "U+68E6": "棦"
-    },
-    "master": "Heavy",
-    "points": [
-      {
-        "contour": 10,
-        "point": 3,
-        "x": 618.0,
-        "y": 573.0
-      },
-      {
-        "contour": 8,
-        "point": 2,
-        "x": 573.0,
-        "y": 518.0
-      }
-    ],
-    "offset": {
-      "x": 45.0,
-      "y": 55.0
-    },
-    "glifFilename": "ety123_cid21460_H_.glif",
-    "shouldApplyFix": true
-  },
-  {
     "cid": "cid21519",
     "glyphName": "uni6901-CN",
     "codepoints": {
@@ -3468,7 +3412,7 @@
       "x": 0.0,
       "y": 1.0
     },
-    "glifFilename": "ety124_cid21519_E_L_.glif",
+    "glifFilename": "ety122_cid21519_E_L_.glif",
     "shouldApplyFix": true
   },
   {
@@ -3496,7 +3440,7 @@
       "x": -4.0,
       "y": 0.0
     },
-    "glifFilename": "ety125_cid21519_H_.glif",
+    "glifFilename": "ety123_cid21519_H_.glif",
     "shouldApplyFix": true
   },
   {
@@ -3524,7 +3468,7 @@
       "x": 1.0,
       "y": 1.0
     },
-    "glifFilename": "ety126_cid21868_E_L_.glif",
+    "glifFilename": "ety124_cid21868_E_L_.glif",
     "shouldApplyFix": true
   },
   {
@@ -3552,7 +3496,7 @@
       "x": 0.0,
       "y": 1.0
     },
-    "glifFilename": "ety127_cid22133_E_L_.glif",
+    "glifFilename": "ety125_cid22133_E_L_.glif",
     "shouldApplyFix": true
   },
   {
@@ -3580,7 +3524,7 @@
       "x": 1.0,
       "y": 0.0
     },
-    "glifFilename": "ety128_cid22736_E_L_.glif",
+    "glifFilename": "ety126_cid22736_E_L_.glif",
     "shouldApplyFix": true
   },
   {
@@ -3608,7 +3552,7 @@
       "x": 0.0,
       "y": 1.0
     },
-    "glifFilename": "ety129_cid22736_H_.glif",
+    "glifFilename": "ety127_cid22736_H_.glif",
     "shouldApplyFix": true
   },
   {
@@ -3636,7 +3580,7 @@
       "x": 0.0,
       "y": 1.0
     },
-    "glifFilename": "ety130_cid23332_E_L_.glif",
+    "glifFilename": "ety128_cid23332_E_L_.glif",
     "shouldApplyFix": true
   },
   {
@@ -3664,7 +3608,7 @@
       "x": 1.0,
       "y": 1.0
     },
-    "glifFilename": "ety131_cid23480_E_L_.glif",
+    "glifFilename": "ety129_cid23480_E_L_.glif",
     "shouldApplyFix": true
   },
   {
@@ -3692,7 +3636,7 @@
       "x": 0.0,
       "y": 1.0
     },
-    "glifFilename": "ety132_cid23480_H_.glif",
+    "glifFilename": "ety130_cid23480_H_.glif",
     "shouldApplyFix": true
   },
   {
@@ -3720,7 +3664,7 @@
       "x": -1.0,
       "y": 0.0
     },
-    "glifFilename": "ety133_cid23526_H_.glif",
+    "glifFilename": "ety131_cid23526_H_.glif",
     "shouldApplyFix": true
   },
   {
@@ -3748,7 +3692,7 @@
       "x": -1.0,
       "y": 0.0
     },
-    "glifFilename": "ety134_cid23527_H_.glif",
+    "glifFilename": "ety132_cid23527_H_.glif",
     "shouldApplyFix": true
   },
   {
@@ -3776,7 +3720,7 @@
       "x": 0.0,
       "y": 1.0
     },
-    "glifFilename": "ety135_cid23563_E_L_.glif",
+    "glifFilename": "ety133_cid23563_E_L_.glif",
     "shouldApplyFix": true
   },
   {
@@ -3804,7 +3748,7 @@
       "x": 1.0,
       "y": 0.0
     },
-    "glifFilename": "ety136_cid23563_H_.glif",
+    "glifFilename": "ety134_cid23563_H_.glif",
     "shouldApplyFix": true
   },
   {
@@ -3832,7 +3776,7 @@
       "x": 0.0,
       "y": 1.0
     },
-    "glifFilename": "ety137_cid23588_E_L_.glif",
+    "glifFilename": "ety135_cid23588_E_L_.glif",
     "shouldApplyFix": true
   },
   {
@@ -3860,7 +3804,7 @@
       "x": 1.0,
       "y": 0.0
     },
-    "glifFilename": "ety138_cid23588_H_.glif",
+    "glifFilename": "ety136_cid23588_H_.glif",
     "shouldApplyFix": true
   },
   {
@@ -3888,7 +3832,7 @@
       "x": 0.0,
       "y": 1.0
     },
-    "glifFilename": "ety139_cid23589_E_L_.glif",
+    "glifFilename": "ety137_cid23589_E_L_.glif",
     "shouldApplyFix": true
   },
   {
@@ -3916,7 +3860,7 @@
       "x": 1.0,
       "y": 0.0
     },
-    "glifFilename": "ety140_cid23589_H_.glif",
+    "glifFilename": "ety138_cid23589_H_.glif",
     "shouldApplyFix": true
   },
   {
@@ -3944,7 +3888,7 @@
       "x": 0.0,
       "y": 1.0
     },
-    "glifFilename": "ety141_cid23711_E_L_.glif",
+    "glifFilename": "ety139_cid23711_E_L_.glif",
     "shouldApplyFix": true
   },
   {
@@ -3972,7 +3916,7 @@
       "x": 0.0,
       "y": 1.0
     },
-    "glifFilename": "ety142_cid23785_H_.glif",
+    "glifFilename": "ety140_cid23785_H_.glif",
     "shouldApplyFix": true
   },
   {
@@ -4000,7 +3944,7 @@
       "x": 0.0,
       "y": 1.0
     },
-    "glifFilename": "ety143_cid23821_H_.glif",
+    "glifFilename": "ety141_cid23821_H_.glif",
     "shouldApplyFix": true
   },
   {
@@ -4028,7 +3972,7 @@
       "x": 19.0,
       "y": -13.0
     },
-    "glifFilename": "ety144_cid24216_H_.glif",
+    "glifFilename": "ety142_cid24216_H_.glif",
     "shouldApplyFix": true
   },
   {
@@ -4056,7 +4000,7 @@
       "x": -1.0,
       "y": 0.0
     },
-    "glifFilename": "ety145_cid24275_H_.glif",
+    "glifFilename": "ety143_cid24275_H_.glif",
     "shouldApplyFix": true
   },
   {
@@ -4084,7 +4028,7 @@
       "x": 0.0,
       "y": 1.0
     },
-    "glifFilename": "ety146_cid24389_E_L_.glif",
+    "glifFilename": "ety144_cid24389_E_L_.glif",
     "shouldApplyFix": true
   },
   {
@@ -4112,7 +4056,7 @@
       "x": -1.0,
       "y": 0.0
     },
-    "glifFilename": "ety147_cid24389_E_L_.glif",
+    "glifFilename": "ety145_cid24389_E_L_.glif",
     "shouldApplyFix": true
   },
   {
@@ -4140,7 +4084,7 @@
       "x": 1.0,
       "y": 0.0
     },
-    "glifFilename": "ety148_cid25063_E_L_.glif",
+    "glifFilename": "ety146_cid25063_E_L_.glif",
     "shouldApplyFix": true
   },
   {
@@ -4168,7 +4112,7 @@
       "x": 0.0,
       "y": 1.0
     },
-    "glifFilename": "ety149_cid25109_H_.glif",
+    "glifFilename": "ety147_cid25109_H_.glif",
     "shouldApplyFix": true
   },
   {
@@ -4196,7 +4140,7 @@
       "x": 0.0,
       "y": 1.0
     },
-    "glifFilename": "ety150_cid25182_E_L_.glif",
+    "glifFilename": "ety148_cid25182_E_L_.glif",
     "shouldApplyFix": true
   },
   {
@@ -4224,7 +4168,7 @@
       "x": 1.0,
       "y": 0.0
     },
-    "glifFilename": "ety151_cid25182_H_.glif",
+    "glifFilename": "ety149_cid25182_H_.glif",
     "shouldApplyFix": true
   },
   {
@@ -4252,7 +4196,7 @@
       "x": 0.0,
       "y": 1.0
     },
-    "glifFilename": "ety152_cid25183_E_L_.glif",
+    "glifFilename": "ety150_cid25183_E_L_.glif",
     "shouldApplyFix": true
   },
   {
@@ -4280,7 +4224,7 @@
       "x": 1.0,
       "y": -1.0
     },
-    "glifFilename": "ety153_cid25441_H_.glif",
+    "glifFilename": "ety151_cid25441_H_.glif",
     "shouldApplyFix": true
   },
   {
@@ -4308,7 +4252,7 @@
       "x": 1.0,
       "y": 0.0
     },
-    "glifFilename": "ety154_cid25538_E_L_.glif",
+    "glifFilename": "ety152_cid25538_E_L_.glif",
     "shouldApplyFix": true
   },
   {
@@ -4336,7 +4280,7 @@
       "x": 1.0,
       "y": 0.0
     },
-    "glifFilename": "ety155_cid25539_E_L_.glif",
+    "glifFilename": "ety153_cid25539_E_L_.glif",
     "shouldApplyFix": true
   },
   {
@@ -4364,7 +4308,7 @@
       "x": -1.0,
       "y": 0.0
     },
-    "glifFilename": "ety156_cid25879_H_.glif",
+    "glifFilename": "ety154_cid25879_H_.glif",
     "shouldApplyFix": true
   },
   {
@@ -4392,7 +4336,7 @@
       "x": 0.0,
       "y": 1.0
     },
-    "glifFilename": "ety157_cid25907_E_L_.glif",
+    "glifFilename": "ety155_cid25907_E_L_.glif",
     "shouldApplyFix": true
   },
   {
@@ -4420,7 +4364,7 @@
       "x": 1.0,
       "y": 0.0
     },
-    "glifFilename": "ety158_cid25907_H_.glif",
+    "glifFilename": "ety156_cid25907_H_.glif",
     "shouldApplyFix": true
   },
   {
@@ -4448,7 +4392,7 @@
       "x": 0.0,
       "y": 1.0
     },
-    "glifFilename": "ety159_cid25983_E_L_.glif",
+    "glifFilename": "ety157_cid25983_E_L_.glif",
     "shouldApplyFix": true
   },
   {
@@ -4476,7 +4420,7 @@
       "x": 0.0,
       "y": 1.0
     },
-    "glifFilename": "ety160_cid26126_E_L_.glif",
+    "glifFilename": "ety158_cid26126_E_L_.glif",
     "shouldApplyFix": true
   },
   {
@@ -4504,7 +4448,7 @@
       "x": 1.0,
       "y": 1.0
     },
-    "glifFilename": "ety161_cid26190_E_L_.glif",
+    "glifFilename": "ety159_cid26190_E_L_.glif",
     "shouldApplyFix": true
   },
   {
@@ -4532,7 +4476,7 @@
       "x": 0.0,
       "y": -1.0
     },
-    "glifFilename": "ety162_cid27355_H_.glif",
+    "glifFilename": "ety160_cid27355_H_.glif",
     "shouldApplyFix": true
   },
   {
@@ -4560,7 +4504,7 @@
       "x": 0.0,
       "y": -1.0
     },
-    "glifFilename": "ety163_cid27356_H_.glif",
+    "glifFilename": "ety161_cid27356_H_.glif",
     "shouldApplyFix": true
   },
   {
@@ -4588,7 +4532,7 @@
       "x": 1.0,
       "y": 0.0
     },
-    "glifFilename": "ety164_cid27414_E_L_.glif",
+    "glifFilename": "ety162_cid27414_E_L_.glif",
     "shouldApplyFix": true
   },
   {
@@ -4616,7 +4560,7 @@
       "x": 3.0,
       "y": 0.0
     },
-    "glifFilename": "ety165_cid27414_H_.glif",
+    "glifFilename": "ety163_cid27414_H_.glif",
     "shouldApplyFix": true
   },
   {
@@ -4644,7 +4588,7 @@
       "x": 1.0,
       "y": 0.0
     },
-    "glifFilename": "ety166_cid27415_E_L_.glif",
+    "glifFilename": "ety164_cid27415_E_L_.glif",
     "shouldApplyFix": true
   },
   {
@@ -4672,7 +4616,7 @@
       "x": 1.0,
       "y": 0.0
     },
-    "glifFilename": "ety167_cid27415_H_.glif",
+    "glifFilename": "ety165_cid27415_H_.glif",
     "shouldApplyFix": true
   },
   {
@@ -4700,7 +4644,7 @@
       "x": 0.0,
       "y": 1.0
     },
-    "glifFilename": "ety168_cid29221_E_L_.glif",
+    "glifFilename": "ety166_cid29221_E_L_.glif",
     "shouldApplyFix": true
   },
   {
@@ -4728,7 +4672,7 @@
       "x": 0.0,
       "y": 1.0
     },
-    "glifFilename": "ety169_cid29497_E_L_.glif",
+    "glifFilename": "ety167_cid29497_E_L_.glif",
     "shouldApplyFix": true
   },
   {
@@ -4756,7 +4700,7 @@
       "x": 0.0,
       "y": 1.0
     },
-    "glifFilename": "ety170_cid29909_E_L_.glif",
+    "glifFilename": "ety168_cid29909_E_L_.glif",
     "shouldApplyFix": true
   },
   {
@@ -4784,7 +4728,7 @@
       "x": 1.0,
       "y": 1.0
     },
-    "glifFilename": "ety171_cid29909_H_.glif",
+    "glifFilename": "ety169_cid29909_H_.glif",
     "shouldApplyFix": true
   },
   {
@@ -4812,7 +4756,7 @@
       "x": -1.0,
       "y": 0.0
     },
-    "glifFilename": "ety172_cid30164_H_.glif",
+    "glifFilename": "ety170_cid30164_H_.glif",
     "shouldApplyFix": true
   },
   {
@@ -4840,7 +4784,7 @@
       "x": 1.0,
       "y": 0.0
     },
-    "glifFilename": "ety173_cid31104_E_L_.glif",
+    "glifFilename": "ety171_cid31104_E_L_.glif",
     "shouldApplyFix": true
   },
   {
@@ -4868,7 +4812,7 @@
       "x": 1.0,
       "y": 0.0
     },
-    "glifFilename": "ety174_cid31945_E_L_.glif",
+    "glifFilename": "ety172_cid31945_E_L_.glif",
     "shouldApplyFix": true
   },
   {
@@ -4896,7 +4840,7 @@
       "x": 0.0,
       "y": 1.0
     },
-    "glifFilename": "ety175_cid31945_H_.glif",
+    "glifFilename": "ety173_cid31945_H_.glif",
     "shouldApplyFix": true
   },
   {
@@ -4924,7 +4868,7 @@
       "x": 1.0,
       "y": 0.0
     },
-    "glifFilename": "ety176_cid32787_E_L_.glif",
+    "glifFilename": "ety174_cid32787_E_L_.glif",
     "shouldApplyFix": true
   },
   {
@@ -4952,7 +4896,7 @@
       "x": 1.0,
       "y": 0.0
     },
-    "glifFilename": "ety177_cid32788_E_L_.glif",
+    "glifFilename": "ety175_cid32788_E_L_.glif",
     "shouldApplyFix": true
   },
   {
@@ -4980,7 +4924,7 @@
       "x": 1.0,
       "y": 0.0
     },
-    "glifFilename": "ety178_cid32829_E_L_.glif",
+    "glifFilename": "ety176_cid32829_E_L_.glif",
     "shouldApplyFix": true
   },
   {
@@ -5008,7 +4952,7 @@
       "x": 1.0,
       "y": 0.0
     },
-    "glifFilename": "ety179_cid32842_H_.glif",
+    "glifFilename": "ety177_cid32842_H_.glif",
     "shouldApplyFix": true
   },
   {
@@ -5036,7 +4980,7 @@
       "x": 0.0,
       "y": 1.0
     },
-    "glifFilename": "ety180_cid32843_E_L_.glif",
+    "glifFilename": "ety178_cid32843_E_L_.glif",
     "shouldApplyFix": true
   },
   {
@@ -5064,7 +5008,7 @@
       "x": 1.0,
       "y": 0.0
     },
-    "glifFilename": "ety181_cid33488_E_L_.glif",
+    "glifFilename": "ety179_cid33488_E_L_.glif",
     "shouldApplyFix": true
   },
   {
@@ -5092,7 +5036,7 @@
       "x": 1.0,
       "y": 0.0
     },
-    "glifFilename": "ety182_cid33489_E_L_.glif",
+    "glifFilename": "ety180_cid33489_E_L_.glif",
     "shouldApplyFix": true
   },
   {
@@ -5120,7 +5064,7 @@
       "x": 0.0,
       "y": 1.0
     },
-    "glifFilename": "ety183_cid33513_H_.glif",
+    "glifFilename": "ety181_cid33513_H_.glif",
     "shouldApplyFix": true
   },
   {
@@ -5148,7 +5092,7 @@
       "x": 0.0,
       "y": 1.0
     },
-    "glifFilename": "ety184_cid33514_E_L_.glif",
+    "glifFilename": "ety182_cid33514_E_L_.glif",
     "shouldApplyFix": true
   },
   {
@@ -5176,7 +5120,7 @@
       "x": 0.0,
       "y": 1.0
     },
-    "glifFilename": "ety185_cid34121_E_L_.glif",
+    "glifFilename": "ety183_cid34121_E_L_.glif",
     "shouldApplyFix": true
   },
   {
@@ -5204,7 +5148,7 @@
       "x": 0.0,
       "y": 1.0
     },
-    "glifFilename": "ety186_cid34142_E_L_.glif",
+    "glifFilename": "ety184_cid34142_E_L_.glif",
     "shouldApplyFix": true
   },
   {
@@ -5232,7 +5176,7 @@
       "x": 0.0,
       "y": 1.0
     },
-    "glifFilename": "ety187_cid34143_E_L_.glif",
+    "glifFilename": "ety185_cid34143_E_L_.glif",
     "shouldApplyFix": true
   },
   {
@@ -5260,7 +5204,7 @@
       "x": 0.0,
       "y": 1.0
     },
-    "glifFilename": "ety188_cid34254_E_L_.glif",
+    "glifFilename": "ety186_cid34254_E_L_.glif",
     "shouldApplyFix": true
   },
   {
@@ -5288,7 +5232,7 @@
       "x": 0.0,
       "y": 1.0
     },
-    "glifFilename": "ety189_cid34255_E_L_.glif",
+    "glifFilename": "ety187_cid34255_E_L_.glif",
     "shouldApplyFix": true
   },
   {
@@ -5316,7 +5260,7 @@
       "x": 0.0,
       "y": 1.0
     },
-    "glifFilename": "ety190_cid34255_H_.glif",
+    "glifFilename": "ety188_cid34255_H_.glif",
     "shouldApplyFix": true
   },
   {
@@ -5344,7 +5288,7 @@
       "x": 1.0,
       "y": 0.0
     },
-    "glifFilename": "ety191_cid34396_E_L_.glif",
+    "glifFilename": "ety189_cid34396_E_L_.glif",
     "shouldApplyFix": true
   },
   {
@@ -5372,7 +5316,7 @@
       "x": 0.0,
       "y": 1.0
     },
-    "glifFilename": "ety192_cid34664_E_L_.glif",
+    "glifFilename": "ety190_cid34664_E_L_.glif",
     "shouldApplyFix": true
   },
   {
@@ -5400,7 +5344,7 @@
       "x": 0.0,
       "y": 1.0
     },
-    "glifFilename": "ety193_cid34665_E_L_.glif",
+    "glifFilename": "ety191_cid34665_E_L_.glif",
     "shouldApplyFix": true
   },
   {
@@ -5428,7 +5372,7 @@
       "x": 1.0,
       "y": 0.0
     },
-    "glifFilename": "ety194_cid34869_H_.glif",
+    "glifFilename": "ety192_cid34869_H_.glif",
     "shouldApplyFix": true
   },
   {
@@ -5456,7 +5400,7 @@
       "x": 1.0,
       "y": 1.0
     },
-    "glifFilename": "ety195_cid36192_E_L_.glif",
+    "glifFilename": "ety193_cid36192_E_L_.glif",
     "shouldApplyFix": true
   },
   {
@@ -5484,7 +5428,7 @@
       "x": 0.0,
       "y": 1.0
     },
-    "glifFilename": "ety196_cid38534_E_L_.glif",
+    "glifFilename": "ety194_cid38534_E_L_.glif",
     "shouldApplyFix": true
   },
   {
@@ -5512,7 +5456,7 @@
       "x": 0.0,
       "y": 1.0
     },
-    "glifFilename": "ety197_cid39311_E_L_.glif",
+    "glifFilename": "ety195_cid39311_E_L_.glif",
     "shouldApplyFix": true
   },
   {
@@ -5540,7 +5484,7 @@
       "x": 0.0,
       "y": 1.0
     },
-    "glifFilename": "ety198_cid39311_H_.glif",
+    "glifFilename": "ety196_cid39311_H_.glif",
     "shouldApplyFix": true
   },
   {
@@ -5568,7 +5512,7 @@
       "x": 0.0,
       "y": 1.0
     },
-    "glifFilename": "ety199_cid39312_E_L_.glif",
+    "glifFilename": "ety197_cid39312_E_L_.glif",
     "shouldApplyFix": true
   },
   {
@@ -5596,7 +5540,7 @@
       "x": 0.0,
       "y": 1.0
     },
-    "glifFilename": "ety200_cid39312_H_.glif",
+    "glifFilename": "ety198_cid39312_H_.glif",
     "shouldApplyFix": true
   },
   {
@@ -5624,7 +5568,7 @@
       "x": 0.0,
       "y": 1.0
     },
-    "glifFilename": "ety201_cid40047_E_L_.glif",
+    "glifFilename": "ety199_cid40047_E_L_.glif",
     "shouldApplyFix": true
   },
   {
@@ -5652,7 +5596,7 @@
       "x": 1.0,
       "y": 0.0
     },
-    "glifFilename": "ety202_cid40241_H_.glif",
+    "glifFilename": "ety200_cid40241_H_.glif",
     "shouldApplyFix": true
   },
   {
@@ -5680,7 +5624,7 @@
       "x": 1.0,
       "y": 0.0
     },
-    "glifFilename": "ety203_cid40465_E_L_.glif",
+    "glifFilename": "ety201_cid40465_E_L_.glif",
     "shouldApplyFix": true
   },
   {
@@ -5708,7 +5652,7 @@
       "x": 2.0,
       "y": 1.0
     },
-    "glifFilename": "ety204_cid41015_H_.glif",
+    "glifFilename": "ety202_cid41015_H_.glif",
     "shouldApplyFix": true
   },
   {
@@ -5736,7 +5680,7 @@
       "x": 1.0,
       "y": 0.0
     },
-    "glifFilename": "ety205_cid41032_H_.glif",
+    "glifFilename": "ety203_cid41032_H_.glif",
     "shouldApplyFix": true
   },
   {
@@ -5764,7 +5708,7 @@
       "x": 1.0,
       "y": 0.0
     },
-    "glifFilename": "ety206_cid41056_H_.glif",
+    "glifFilename": "ety204_cid41056_H_.glif",
     "shouldApplyFix": true
   },
   {
@@ -5792,7 +5736,7 @@
       "x": 1.0,
       "y": 1.0
     },
-    "glifFilename": "ety207_cid41231_H_.glif",
+    "glifFilename": "ety205_cid41231_H_.glif",
     "shouldApplyFix": true
   },
   {
@@ -5820,7 +5764,7 @@
       "x": 0.0,
       "y": 1.0
     },
-    "glifFilename": "ety208_cid42358_E_L_.glif",
+    "glifFilename": "ety206_cid42358_E_L_.glif",
     "shouldApplyFix": true
   },
   {
@@ -5848,7 +5792,7 @@
       "x": 1.0,
       "y": 0.0
     },
-    "glifFilename": "ety209_cid42589_H_.glif",
+    "glifFilename": "ety207_cid42589_H_.glif",
     "shouldApplyFix": true
   },
   {
@@ -5876,7 +5820,7 @@
       "x": 5.0,
       "y": -2.0
     },
-    "glifFilename": "ety210_cid42753_E_L_.glif",
+    "glifFilename": "ety208_cid42753_E_L_.glif",
     "shouldApplyFix": true
   },
   {
@@ -5904,7 +5848,7 @@
       "x": 0.0,
       "y": 1.0
     },
-    "glifFilename": "ety211_cid42753_H_.glif",
+    "glifFilename": "ety209_cid42753_H_.glif",
     "shouldApplyFix": true
   },
   {
@@ -5932,7 +5876,7 @@
       "x": 1.0,
       "y": -1.0
     },
-    "glifFilename": "ety212_cid43557_H_.glif",
+    "glifFilename": "ety210_cid43557_H_.glif",
     "shouldApplyFix": true
   },
   {
@@ -5960,7 +5904,7 @@
       "x": 0.0,
       "y": 1.0
     },
-    "glifFilename": "ety213_cid43777_E_L_.glif",
+    "glifFilename": "ety211_cid43777_E_L_.glif",
     "shouldApplyFix": true
   },
   {
@@ -5988,7 +5932,7 @@
       "x": 0.0,
       "y": 1.0
     },
-    "glifFilename": "ety214_cid43880_E_L_.glif",
+    "glifFilename": "ety212_cid43880_E_L_.glif",
     "shouldApplyFix": true
   },
   {
@@ -6016,7 +5960,7 @@
       "x": 0.0,
       "y": -1.0
     },
-    "glifFilename": "ety215_cid44061_E_L_.glif",
+    "glifFilename": "ety213_cid44061_E_L_.glif",
     "shouldApplyFix": true
   },
   {
@@ -6044,7 +5988,7 @@
       "x": -1.0,
       "y": 0.0
     },
-    "glifFilename": "ety216_cid44710_H_.glif",
+    "glifFilename": "ety214_cid44710_H_.glif",
     "shouldApplyFix": true
   },
   {
@@ -6072,7 +6016,7 @@
       "x": 0.0,
       "y": 1.0
     },
-    "glifFilename": "ety217_cid44711_E_L_.glif",
+    "glifFilename": "ety215_cid44711_E_L_.glif",
     "shouldApplyFix": true
   },
   {
@@ -6100,7 +6044,7 @@
       "x": 0.0,
       "y": 1.0
     },
-    "glifFilename": "ety218_cid46399_E_L_.glif",
+    "glifFilename": "ety216_cid46399_E_L_.glif",
     "shouldApplyFix": true
   },
   {
@@ -6128,7 +6072,7 @@
       "x": 0.0,
       "y": 1.0
     },
-    "glifFilename": "ety219_cid46739_E_L_.glif",
+    "glifFilename": "ety217_cid46739_E_L_.glif",
     "shouldApplyFix": true
   },
   {
@@ -6156,7 +6100,7 @@
       "x": 1.0,
       "y": 0.0
     },
-    "glifFilename": "ety220_cid46739_H_.glif",
+    "glifFilename": "ety218_cid46739_H_.glif",
     "shouldApplyFix": true
   },
   {
@@ -6184,7 +6128,7 @@
       "x": 0.0,
       "y": 1.0
     },
-    "glifFilename": "ety221_cid58911_H_.glif",
+    "glifFilename": "ety219_cid58911_H_.glif",
     "shouldApplyFix": true
   },
   {
@@ -6212,7 +6156,7 @@
       "x": 0.0,
       "y": 1.0
     },
-    "glifFilename": "ety222_cid59396_E_L_.glif",
+    "glifFilename": "ety220_cid59396_E_L_.glif",
     "shouldApplyFix": true
   },
   {
@@ -6240,7 +6184,7 @@
       "x": 1.0,
       "y": 0.0
     },
-    "glifFilename": "ety223_cid59396_H_.glif",
+    "glifFilename": "ety221_cid59396_H_.glif",
     "shouldApplyFix": true
   },
   {
@@ -6268,7 +6212,7 @@
       "x": 0.0,
       "y": 1.0
     },
-    "glifFilename": "ety224_cid59586_E_L_.glif",
+    "glifFilename": "ety222_cid59586_E_L_.glif",
     "shouldApplyFix": true
   },
   {
@@ -6296,7 +6240,7 @@
       "x": 1.0,
       "y": 0.0
     },
-    "glifFilename": "ety225_cid59596_H_.glif",
+    "glifFilename": "ety223_cid59596_H_.glif",
     "shouldApplyFix": true
   },
   {
@@ -6324,7 +6268,7 @@
       "x": 0.0,
       "y": 1.0
     },
-    "glifFilename": "ety226_cid59687_E_L_.glif",
+    "glifFilename": "ety224_cid59687_E_L_.glif",
     "shouldApplyFix": true
   },
   {
@@ -6352,7 +6296,7 @@
       "x": -1.0,
       "y": 1.0
     },
-    "glifFilename": "ety227_cid59962_E_L_.glif",
+    "glifFilename": "ety225_cid59962_E_L_.glif",
     "shouldApplyFix": true
   },
   {
@@ -6380,7 +6324,7 @@
       "x": 1.0,
       "y": -1.0
     },
-    "glifFilename": "ety228_cid59967_E_L_.glif",
+    "glifFilename": "ety226_cid59967_E_L_.glif",
     "shouldApplyFix": true
   },
   {
@@ -6408,7 +6352,7 @@
       "x": 1.0,
       "y": 0.0
     },
-    "glifFilename": "ety229_cid60038_E_L_.glif",
+    "glifFilename": "ety227_cid60038_E_L_.glif",
     "shouldApplyFix": true
   },
   {
@@ -6436,7 +6380,7 @@
       "x": 0.0,
       "y": 1.0
     },
-    "glifFilename": "ety230_cid60079_E_L_.glif",
+    "glifFilename": "ety228_cid60079_E_L_.glif",
     "shouldApplyFix": true
   },
   {
@@ -6464,7 +6408,7 @@
       "x": 0.0,
       "y": 1.0
     },
-    "glifFilename": "ety231_cid60130_H_.glif",
+    "glifFilename": "ety229_cid60130_H_.glif",
     "shouldApplyFix": true
   },
   {
@@ -6492,7 +6436,7 @@
       "x": 3.0,
       "y": 0.0
     },
-    "glifFilename": "ety232_cid60148_E_L_.glif",
+    "glifFilename": "ety230_cid60148_E_L_.glif",
     "shouldApplyFix": true
   },
   {
@@ -6520,7 +6464,7 @@
       "x": -1.0,
       "y": 0.0
     },
-    "glifFilename": "ety233_cid60148_H_.glif",
+    "glifFilename": "ety231_cid60148_H_.glif",
     "shouldApplyFix": true
   },
   {
@@ -6548,7 +6492,7 @@
       "x": 0.0,
       "y": 1.0
     },
-    "glifFilename": "ety234_cid60239_E_L_.glif",
+    "glifFilename": "ety232_cid60239_E_L_.glif",
     "shouldApplyFix": true
   },
   {
@@ -6576,7 +6520,7 @@
       "x": 0.0,
       "y": 1.0
     },
-    "glifFilename": "ety235_cid60319_H_.glif",
+    "glifFilename": "ety233_cid60319_H_.glif",
     "shouldApplyFix": true
   },
   {
@@ -6604,7 +6548,7 @@
       "x": 1.0,
       "y": 1.0
     },
-    "glifFilename": "ety236_cid60448_E_L_.glif",
+    "glifFilename": "ety234_cid60448_E_L_.glif",
     "shouldApplyFix": true
   },
   {
@@ -6632,7 +6576,7 @@
       "x": 0.0,
       "y": 1.0
     },
-    "glifFilename": "ety237_cid60448_H_.glif",
+    "glifFilename": "ety235_cid60448_H_.glif",
     "shouldApplyFix": true
   },
   {
@@ -6660,7 +6604,7 @@
       "x": 0.0,
       "y": 2.0
     },
-    "glifFilename": "ety238_cid61020_E_L_.glif",
+    "glifFilename": "ety236_cid61020_E_L_.glif",
     "shouldApplyFix": true
   },
   {
@@ -6688,7 +6632,7 @@
       "x": 0.0,
       "y": 1.0
     },
-    "glifFilename": "ety239_cid61159_E_L_.glif",
+    "glifFilename": "ety237_cid61159_E_L_.glif",
     "shouldApplyFix": true
   },
   {
@@ -6716,7 +6660,7 @@
       "x": 1.0,
       "y": 0.0
     },
-    "glifFilename": "ety240_cid61269_E_L_.glif",
+    "glifFilename": "ety238_cid61269_E_L_.glif",
     "shouldApplyFix": true
   },
   {
@@ -6744,7 +6688,7 @@
       "x": 1.0,
       "y": 0.0
     },
-    "glifFilename": "ety241_cid61269_H_.glif",
+    "glifFilename": "ety239_cid61269_H_.glif",
     "shouldApplyFix": true
   },
   {
@@ -6772,7 +6716,7 @@
       "x": 0.0,
       "y": 1.0
     },
-    "glifFilename": "ety242_cid61739_E_L_.glif",
+    "glifFilename": "ety240_cid61739_E_L_.glif",
     "shouldApplyFix": true
   },
   {
@@ -6800,7 +6744,7 @@
       "x": 0.0,
       "y": 1.0
     },
-    "glifFilename": "ety243_cid61771_E_L_.glif",
+    "glifFilename": "ety241_cid61771_E_L_.glif",
     "shouldApplyFix": true
   }
 ]
